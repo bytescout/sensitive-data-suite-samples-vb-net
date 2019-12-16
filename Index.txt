@@ -4,6 +4,7 @@
 \Black out PII Data From PDF
 \Check For Sensitive Data and PII in PDF
 \Remove PII Data From PDF
+\Remove Sensitive Data From Image
 \Remove Sensitive Data From Region
 \Remove Sensitive Data From Scanned Document
 \Remove Sensitive Text Using Regex Expressions
